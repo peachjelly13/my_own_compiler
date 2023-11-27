@@ -1,3 +1,8 @@
 Steps involved in constructing my very own compiler:
 
-- Three important parts to look for when making a compiler : A lexer, A parser, A code generator.
+- Three important parts to look for when making a compiler: A lexer, A parser, A code generator.
+- On one end, a tree-walk interpreter is simple, portable, and slow. On the other, native code is complex and platform-specific but fast. Bytecode sits in the middle. 
+
+
+Starting:
+-Making header files
