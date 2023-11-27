@@ -1,0 +1,3 @@
+Steps involved in constructing my very own compiler:
+
+- Three important parts to look for when making a compiler : A lexer, A parser, A code generator.
